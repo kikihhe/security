@@ -20,13 +20,7 @@ logging:
     mapper: debug
 
 
-aliyun:
-  accessKeyId: LTAI5tQFeKLsRodkW64fHptB
-  accessKeySecret: R6QmkcQG3Yrt9R7aJaq80mmAMuZcvV
-  oss:
-    endpoint: http://oss-cn-chengdu.aliyuncs.com
-    bucketName: typorehwf
-    urlPrefix: https://typorehwf.oss-cn-chengdu.aliyuncs.com/
+
 server:
   port: 8080
 
